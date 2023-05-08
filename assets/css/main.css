@@ -191,7 +191,7 @@ input, select, textarea {
 	hr {
 		border: 0;
 		border-bottom: solid 2px #efefef;
-		margin: 2em 0;
+		margin: 1em 0;
 	}
 
 		hr.major {
