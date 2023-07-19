@@ -2816,7 +2816,7 @@ input, select, textarea {
 			background: #fff;
 			bottom: 0;
 			cursor: default;
-			font-size: 0.9em;
+			font-size: 1.2em;
 			height: 3em;
 			left: 0;
 			line-height: 2.8em;
@@ -2859,7 +2859,7 @@ input, select, textarea {
 
 			.poptrox-popup .nav-next:before,
 			.poptrox-popup .nav-previous:before {
-				color: #fff;
+				color: #909090;
 				font-size: 2.5em;
 				height: 1em;
 				line-height: 1em;
